@@ -19,7 +19,7 @@ export default function Navbar() {
                     <Link className="text-white/90 hover:text-white" href="https://twitter.com/moazirfan">
                         <RiTwitterXFill />
                     </Link>
-                    <Link className="text-white/90 hover:text-white" href="https://github.com.moazirfan/">
+                    <Link className="text-white/90 hover:text-white" href="https://github.com/moazirfan">
                         <RiGithubFill />
                     </Link>
                 </div>
