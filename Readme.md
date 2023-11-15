@@ -17,7 +17,7 @@
 npx next-blog-app@latest
 ```
 
-[![📟](https://raw.githubusercontent.com/MoazIrfan/wc-cli/main/.github/next-blog-app.gif)](./../../)
+[![📟](https://raw.githubusercontent.com/MoazIrfan/next-blog-app/main/.github/next-blog-app.gif)](./../../)
 
 <br>
 
