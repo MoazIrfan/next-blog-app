@@ -14,7 +14,6 @@ Set up blog with new `Nextjs` project using
 
 - **Markdown components**: Use React components in your markdown blog posts
 
-
 <br>
 
 [![📟](https://github.com/MoazIrfan/wc-cli/raw/main/.github/install.png)](./../../)
@@ -75,7 +74,7 @@ Make sure you read the [contributing guidelines](https://github.com/MoazIrfan/ne
 
 ## License
 
-MIT © [Moaz Irfan](https://twitter.com/MoazIrfan/)
+MIT © [Moaz Irfan](https://moazirfan.com)
 
 <br>
 
