@@ -5,8 +5,7 @@
 
 <br>
 
-Set up blog with new `Nextjs` project using
-`TailwindCSS`, `TypeScript`, and `APP Router`.
+Instantly generate a blog with a new `Nextjs` project using `TypeScript` and `TailwindCSS`.
 
 - **Post**: Create a new blog post by creating a new markdown file in the posts directory
 
@@ -28,11 +27,8 @@ npx next-blog-app@latest
 
 [![⚙️](https://github.com/MoazIrfan/wc-cli/raw/main/.github/usage.png)](./../../)
 
-## Usage
+## Demo
 
-```sh
-npx next-blog-app@latest
-```
 
 [![📟](https://raw.githubusercontent.com/MoazIrfan/next-blog-app/main/.github/next-blog-app.gif)](./../../)
 
