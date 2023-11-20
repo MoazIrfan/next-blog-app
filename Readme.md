@@ -15,7 +15,7 @@ Instantly generate a blog with a new `Nextjs` project using `TypeScript` and `Ta
 
 <br>
 
-[![📟](https://github.com/MoazIrfan/wc-cli/raw/main/.github/install.png)](./../../)
+[![📟](https://github.com/MoazIrfan/next-blog-app/raw/main/.github/install.png)](./../../)
 
 
 ## Install
@@ -25,7 +25,7 @@ npx next-blog-app@latest
 ```
 <br>
 
-[![⚙️](https://github.com/MoazIrfan/wc-cli/raw/main/.github/usage.png)](./../../)
+[![⚙️](https://github.com/MoazIrfan/next-blog-app/raw/main/.github/usage.png)](./../../)
 
 ## Demo
 
@@ -58,7 +58,7 @@ Deploy app on [Vercel Platform](https://vercel.com/new/git/external?repository-u
 
 <br>
 
-[![📃](https://raw.githubusercontent.com/MoazIrfan/wc-cli/main/.github/conduct.png)](./../../)
+[![📃](https://raw.githubusercontent.com/MoazIrfan/next-blog-app/main/.github/conduct.png)](./../../)
 
 ## Contributing Guidelines
 
@@ -66,7 +66,7 @@ Make sure you read the [contributing guidelines](https://github.com/MoazIrfan/ne
 
 <br>
 
-[![📃](https://raw.githubusercontent.com/MoazIrfan/wc-cli/main/.github/license.png)](./../../)
+[![📃](https://raw.githubusercontent.com/MoazIrfan/next-blog-app/main/.github/license.png)](./../../)
 
 ## License
 
@@ -74,7 +74,7 @@ MIT © [Moaz Irfan](https://moazirfan.com)
 
 <br>
 
-[![🙌](https://github.com/MoazIrfan/wc-cli/raw/main/.github/connect.png)](./../../)
+[![🙌](https://github.com/MoazIrfan/next-blog-app/raw/main/.github/connect.png)](./../../)
 
 ## Connect
 
@@ -87,7 +87,7 @@ MIT © [Moaz Irfan](https://moazirfan.com)
         <img alt="Twitter @MoazIrfan" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&style=flat" />
     </a>&nbsp;
     <a href="https://moazirfan.com/">
-        <img alt="Blog: moazirfan.com" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&style=flat" />
+        <img alt="Blog: moazirfan.com" align="center" src="https://img.shields.io/badge/MY%20WEBSITE-gray.svg?colorB=6666ff&style=flat" />
     </a>&nbsp;
     <a href="https://www.linkedin.com/in/moazirfan/">
         <img alt="LinkedIn @MoazIrfan" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&style=flat" />
