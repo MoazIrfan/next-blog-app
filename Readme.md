@@ -1,6 +1,8 @@
 
 # next-blog-app
 
+[![DOWNLOADS](https://img.shields.io/npm/dt/next-blog-app?label=DOWNLOADS%20%20%E2%9D%AF&colorA=1574ef&colorB=1574ef&style=flat)](https://www.npmjs.com/package/next-blog-app)
+
 > Start your blog with Next.js.
 
 <br>
